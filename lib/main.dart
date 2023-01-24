@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_responsive/desktop.dart';
 import 'package:flutter_responsive/mobile.dart';
-
+//hello from saed
 void main()
 {
   runApp(const MyApp());
@@ -43,5 +43,3 @@ class MyApp extends StatelessWidget
     );
   }
 }
-
-//login is okay 2
